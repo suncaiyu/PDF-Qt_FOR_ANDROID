@@ -1,2 +1,2 @@
 # PDF-Qt_FOR_ANDROID
-Qt_on_Android_核心编程的PDF，
+Qt_on_Android_核心编程的PDF，我感觉Qt写写桌面应用还是可以的，搞Android开发是一个坑啊，光是想想各种jar包，java代码的jni调用就很繁琐啊
